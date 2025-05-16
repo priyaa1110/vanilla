@@ -1,4 +1,4 @@
-## Life is Vanilla and so is GitHub.
+## Life is Vanilla and so is GitHub. <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50">
 
 This repository has been created for the sole purpose to learn more about git, github and VCS. As discussed in the workshop that we had/are having.
 Have fun. Practise a lot. Don't fear to do something wrong or break something. Enjoy the change.
